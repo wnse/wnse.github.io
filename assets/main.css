@@ -114,8 +114,8 @@ footer .pure-menu-link:hover {
 }
 
 .sidebar {
-  background: #222;
-  color: #fff;
+  background: #fff;
+  color: #111;
 }
 
 .sidebar-info {
@@ -149,7 +149,7 @@ footer .pure-menu-link:hover {
 
 .brand-tagline {
   font-weight: 300;
-  color: #ddd;
+  color: #aaa;
   font-size: 18px;
 }
 
@@ -168,7 +168,7 @@ footer .pure-menu-link:hover {
 .nav-item a {
   background: transparent;
   border: 2px solid rgb(195, 176, 219);
-  color: #fff;
+  color: #111;
   margin-top: 1em;
   margin-right: 5px;
   letter-spacing: 0.05em;
