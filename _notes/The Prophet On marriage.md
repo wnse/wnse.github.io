@@ -8,12 +8,13 @@ categories:
 - 散文
 modified_date: 2021-08-18 
 ---
-On marriage
-
-论婚姻
 
 [[Kahlil Gibran]] [[卡里·纪伯伦]]
 译者：冰心/李家真
+
+On marriage
+
+论婚姻
 
 Then Almitra spoke again and said, And what of Marriage, master? And he answered saying:
 
