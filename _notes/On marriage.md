@@ -3,7 +3,6 @@ tags:
 - Kahlil Gibran 
 - The Prophet
 - 冰心
-modified_date: 2022-01-01
 categories:
 - 散文
 ---
