@@ -18,26 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "wnse's blog"
+title: "wnse的博客"
 email: yangkai07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  wnse description
+  简介
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wnse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: wnse/wnse.github.io
 twitter: 
 github: wnse
 
-header_image: assets/profile.jpg
+header_image: 
 
 google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: wnse
+author: 
 author_bio: >-
-  一段自我介绍
-author_pic: https://brennanbrown.ca/img/avatar.png
+  
+author_pic: 
 paginate: 4
 paginate_path: "/:num/"
 
@@ -58,11 +58,11 @@ permalink: /:title
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
+      type: posts # previously `post` in Jekyll 2.2.
     values:
-      layout: "post"
-      author: wnse
-      avatar: assets/profile.jpg
+      layout: post
+      author: 
+      avatar: 
   - scope:
       path: ""
       type: notes
@@ -85,9 +85,15 @@ collections:
   notes:
     output: true
     permalink: /notes/:title
+    label_show: 摘录
   journals:
     output: true
     permalink: /journals/:title
+    label_show: 杂记
+  post:
+    label_show: 文章
+
+
 
 # Exclude from processing.
 exclude:

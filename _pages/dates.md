@@ -1,6 +1,6 @@
 ---
-layout: post
-title: By Date
+layout: page
+title: 日期
 permalink: /dates/
 content-type: eg
 ---
@@ -17,18 +17,27 @@ content-type: eg
 }
 </style>
 
-<main>
+<div>
+<h2>文章：</h2>
     {% assign postsByDay =
     site.posts | group_by_exp:"post", "post.date | date: '%d-%B-%Y'" %}
-
     {% for day in postsByDay %}
       <h3 id="{{ day.name }}">{{ day.name }}</h3>
           {% for post in day.items %}
             <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
     {% endfor %}
-
         <br/>
         <br/>
-
-</main>
+<h2>摘录：</h2>
+    {% assign postsByDay =
+    site.notes | group_by_exp:"notes", "notes.date | date: '%d-%B-%Y'" %}
+    {% for day in postsByDay %}
+      <h3 id="{{ day.name }}">{{ day.name }}</h3>
+          {% for post in day.items %}
+            <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+    {% endfor %}
+        <br/>
+        <br/>
+</div>

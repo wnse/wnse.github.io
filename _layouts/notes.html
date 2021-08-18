@@ -6,7 +6,7 @@ layout: default
 {% assign notes = site.notes %}
 
 <div class="notes">
-    <h2 class="content-subhead">Recent Notes</h2>
+    <h2 class="content-subhead">最近摘录</h2>
 
     {%- if notes.size > 0 -%}
         {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
@@ -21,7 +21,9 @@ layout: default
                     </h2>
 
                     <p class="post-meta">
-                        Tagged:
+                        日期：
+                        {{ note.date | date: date_format }}
+                        标签：
                         <span>
                             {% for tag in note.tags %}
                                 <a href="/tags/#{{ tag }}">#{{ tag }}</a>

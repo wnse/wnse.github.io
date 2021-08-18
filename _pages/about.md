@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About the Purelog Theme
+title: 关于
 permalink: /about/
 ---
 
-[**Purelog**]( https://github.com/brennanbrown/purelog)
-
+空空如也
