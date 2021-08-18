@@ -100,3 +100,4 @@ exclude:
   - ".jekyll-cache"
   - "Gemfile"
   - "Gemfile.lock"
+  - "templates"
