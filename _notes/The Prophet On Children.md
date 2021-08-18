@@ -6,7 +6,6 @@ tags:
 categories:
 - 散文
 date: 2021-08-18
-modified_date: 
 ---
 
 [[Kahlil Gibran]] [[卡里·纪伯伦]]
