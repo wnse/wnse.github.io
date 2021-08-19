@@ -1,7 +1,7 @@
 ---
 title: The Prophet - On Children
 tags: 
-- Kahlil Gibran 
+- Kahlil Gibran
 - 教育
 categories:
 - 散文

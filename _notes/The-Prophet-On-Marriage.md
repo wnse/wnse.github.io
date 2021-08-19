@@ -2,11 +2,11 @@
 title: The Prophet - On marriage
 date: 2021-08-18
 tags: 
-- Kahlil Gibran 
+- Kahlil Gibran
 - 婚姻
 categories:
 - 散文
-modified_date: 2021-08-18 
+modified_date: 
 ---
 
 [[Kahlil Gibran]] [[卡里·纪伯伦]]
