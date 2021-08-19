@@ -1,6 +1,6 @@
 ---
-title: The Prophet - On marriage
-date: 2021-08-18
+title: The Prophet - On Marriage
+date: 2021-08-19
 tags: 
 - Kahlil Gibran
 - 婚姻
