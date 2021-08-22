@@ -2,6 +2,7 @@
 title: The Prophet - On Children
 tags: 
 - Kahlil Gibran
+- 情感
 - 教育
 categories:
 - 散文

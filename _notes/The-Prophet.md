@@ -13,7 +13,7 @@ modified_date:
 
 ## 文字
 1. [The Coming of the Ship](./The-Coming-of-the-Ship)
-2. On Love
+2. [On Love](./The-Prophet-On-Love)
 3. [On Marriage](./The-Prophet-On-Marriage)
 4. [On Children](./The-Prophet-On-Children)
 

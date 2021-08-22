@@ -3,7 +3,7 @@ title: The Prophet - On Marriage
 date: 2021-08-19
 tags: 
 - Kahlil Gibran
-- 婚姻
+- 情感
 categories:
 - 散文
 modified_date: 
