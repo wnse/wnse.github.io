@@ -16,6 +16,7 @@ modified_date:
 2. [On Love](./The-Prophet-On-Love)
 3. [On Marriage](./The-Prophet-On-Marriage)
 4. [On Children](./The-Prophet-On-Children)
+5. [On Giving](./The-Prophet-On-Giving)
 
 
 

@@ -22,8 +22,6 @@ Then Almitra spoke again and said, And what of Marriage, master? And he answered
 
 听闻此言，米特拉再度发问，师尊啊，婚姻又当如何理会？于是他答道：
 
-
-
 You were born together, and together you shall be forevermore.
 
 你们一块儿出世，也要永远合一。
