@@ -29,7 +29,7 @@ And he said:
 
 于是 他说道：
 
-Would that you could live on the fragrance of the earth, and like ann air plant be sustained by the light.
+Would that you could live on the fragrance of the earth, and like an air plant be sustained by the light.
 
 我恨不得你们能借着大地的香气而生存，如同那“空气”植物受着阳光的供养。
 
@@ -41,7 +41,7 @@ But since you must kill to eat, and rob the newly born of its mother's milk to q
 
 可你们必须杀生为食，必须劫夺新生幼仔的母乳来止渴，既是如此，那就让此等举动成为一种礼拜。
 
-And let your board stand an altar on which the pure and the innocent of forest and plain are sacrificed for that which is purer and still more innocent in many.
+And let your board stand an altar on which the pure and the innocent of forest and plain are sacrificed for that which is purer and still more innocent in man.
 
 让你的肴馔摆在祭坛上，那是丛林中和原野上的纯洁清白的物品，为更纯洁清白的人们而牺牲的。
 
