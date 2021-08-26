@@ -17,6 +17,7 @@ modified_date:
 3. [On Marriage](./The-Prophet-On-Marriage)
 4. [On Children](./The-Prophet-On-Children)
 5. [On Giving](./The-Prophet-On-Giving)
+6. [On Eating&Drinking](The-Prophet-On-Eating&Drinking)
 
 
 
