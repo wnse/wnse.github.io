@@ -116,4 +116,14 @@ And he who seizes the rainbow to lay it on a cloth in the likeness of man, is mo
 
 But I say, not in sleep but in the over-wakefulness of noontide, that the wind speaks not more sweetly to the giant oaks than to the least of all the blades of grass;
 
-And he alone is great who turns the v
+And he alone is great who turns the voice of the wind into a song made sweeter by his own loving.
+
+Work is love made visible.
+
+And if you cannot work with love but only with distaste, it is better that you should leave your work and sit at the gate of the temple and take alms of those who work with joy.
+
+For if you bake bread with indifference, you bake a bitter bread that feeds but half man's hunger.
+
+And if you grudge the crushing of the grapes, your grudge distils a poison in the wine.
+
+And if you sing though as angels, and love not the singing, you muffle man's ears to the voices of the day and the voices of the night.
