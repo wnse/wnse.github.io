@@ -94,4 +94,26 @@ It is to build a house with affection, even as if your beloved were to dwell in 
 
 是用满怀的深情建造房屋，一如房屋会是你亲人的居所。
 
-It is to sow seeds with
+It is to sow seeds with tenderness and reap the harvest with joy, evenn as if your beloved were to eat the fruit.
+
+是温柔地播种，欢欣地收获，一如果实会是你亲人的食物。
+
+It is to charge all things you fashion with a breath of your own spirit,
+
+是将你心灵的气息，注入你的每一件制作，
+
+Ann to know that all the blessed dead are standing about you and watching.
+
+心中知晓，所有那些蒙福的逝者，都站在你的周遭，观看你的工作。
+
+Often have I heard you say, as if speaking in sleep,"he who works in marble, and finds the shape of his own soul in the stone, is a nobler than he who ploughs the soil.
+
+我时常听见你们，梦呓一般地说道，“雕琢大理石的人，从大理石当中觅得自身灵魂的形象，这样的人，比犁地的人高贵。
+
+And he who seizes the rainbow to lay it on a cloth in the likeness of man, is more than he who makes the sandals for our feet."
+
+捕捉虹彩的人，用虹彩在布帛上绘画人物，这样的人，比为我们的双脚制作凉鞋的人杰出。”
+
+But I say, not in sleep but in the over-wakefulness of noontide, that the wind speaks not more sweetly to the giant oaks than to the least of all the blades of grass;
+
+And he alone is great who turns the v
