@@ -14,51 +14,77 @@ modified_date:
 
 On Work
 
+论工作
+
 Then a ploughman said , Speak to us of Work.
+
+于是一个农夫说：请给我们谈工作。
 
 听闻此言，一名农夫开口说道，请给我们讲讲工作。
 
 And he answered, saying:
 
+他回答说：
+
 于是他答道：
 
 You work that you may keep pace with the earth and the soul of the earth.
+
+你工作为的是要与大地和大地的精神一同前进。
 
 你们必须工作，方可跟上大地的脚步，跟上大地灵魂的脚步。
 
 For to be idle is to become a stranger unto the seasons, and to step out of life's procession, that marches in majesty and proud submission towards the infinite.
 
+因为惰逸使你成为一个时代的生客，一个生命大队中的落伍者，这大队是庄严的、高傲而服从的，向着无穷前进。
+
 无所事事，便会成为疏离四季的异客，便会退出生命的队列。生命的队列盛大庄严，怀着自豪的谦恭，浩浩荡荡走向无穷。
 
 When you work you are a flute through whose heart the whispering of the hours turns to music.
+
+在你工作的时候，你是一管笛，从你心中吹出时光的微语变成音乐。
 
 工作之时，你便是一支长笛，时日的低语从你心间流过，变成旋律。
 
 Which of you would be a reed, dumb and silent, when all else sings together in unison?
 
+你们谁肯做一根芦管，在万物合唱的时候，你独痴呆无声呢？
+
 万物都在齐声歌吟，你们之中，可会有人情愿，充当暗哑无声的芦杆？
 
 Always you have been told that work is a curse and labour a misfortune.
+
+你们常听人说，工作是祸殃，劳力是不幸。
 
 你们总是听人说，工作等于霉运，劳动便是不幸。
 
 But I say to you that when you work you fulfil a part of earth's furthest dream, assigned to you when that dream was born,
 
+我却对你们说，你们工作的时候，你们完成了大地的深远的梦之一部，他指示你那梦是从何时开头，
+
 而我告诉你们，工作之时，你们是在依照各自分担的使命，协力完成大地最高远的梦想，这份使命，在梦想初生之时，便已派给你们，
 
 And in keeping yourself with labour you are in truth loving life, 
+
+而在你劳力不息的时候，你确在爱了生命，
 
 劳作不息，其实是热爱生命，
 
 And to love life through labour is to be intimate with life's inmost secret.
 
+从工作里爱了生命，就是通彻了生命最深的秘密。
+
 借劳作来热爱生命，便可体悟生命本真。
 
 But if you in your pain call birth an affliction and the support of the flesh a curse written upon your brow, then I answer that naught but the sweat of youur brow shall wash away that which is written.
 
+倘然在你的辛苦里，将有身之苦恼和养身之诅咒，写上你的眉间，则我将回答你，只有你眉间的汗，能洗去这些字句。
+
 若是你苦痛不堪，将人生称作磨难，将生计称作写在额上的诅咒，那我要告诉你，只有你额上的汗滴，才能洗去写在那里的东西。
 
 You have been told also that life is darkness, and in your weariness you echo what was said by the weary.
+
+
 
 你们曾听人言，生命只是黑暗，心生厌倦的你们，附和了厌世者的意见。
 
@@ -116,14 +142,28 @@ And he who seizes the rainbow to lay it on a cloth in the likeness of man, is mo
 
 But I say, not in sleep but in the over-wakefulness of noontide, that the wind speaks not more sweetly to the giant oaks than to the least of all the blades of grass;
 
+我要说的话，却不是出于梦呓，是出于正午时分的十足清醒。我要告诉你们，对最高大橡树说话的时候，风儿的声音，并不比它对最渺小草叶说话的时候甜美。
+
 And he alone is great who turns the voice of the wind into a song made sweeter by his own loving.
+
+凭借自身的热爱，将风儿的声音变成甜美的歌曲，这样的人，方可有伟大之名。
 
 Work is love made visible.
 
+工作是爱的表征。
+
 And if you cannot work with love but only with distaste, it is better that you should leave your work and sit at the gate of the temple and take alms of those who work with joy.
+
+倘若你不能怀着热爱工作，工作之时只有厌憎，倒不如撇下工作，去神庙门口闲坐，向乐于工作的人讨要施舍。
 
 For if you bake bread with indifference, you bake a bitter bread that feeds but half man's hunger.
 
+要知道，倘若你漠不关心地烤制面饼，你的面饼必然又苦又涩，只能缓解一半的饥饿。
+
 And if you grudge the crushing of the grapes, your grudge distils a poison in the wine.
 
+倘若你怨恨榨葡萄的工作，你的怨恨必然堆积凝结，化成酒中的毒液。
+
 And if you sing though as angels, and love not the singing, you muffle man's ears to the voices of the day and the voices of the night.
+
+倘若你歌喉有如天使，但却对歌唱全无热爱，你只会蒙敝人们的耳朵，致使他们无法倾听，白昼与黑夜的声音。
