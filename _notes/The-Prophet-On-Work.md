@@ -84,86 +84,126 @@ But if you in your pain call birth an affliction and the support of the flesh a 
 
 You have been told also that life is darkness, and in your weariness you echo what was said by the weary.
 
-
+你们也听见人说，生命是黑暗的，在你疲瘁之中，你附和了那疲瘁的人所说的话。
 
 你们曾听人言，生命只是黑暗，心生厌倦的你们，附和了厌世者的意见。
 
 And I say that life is indeed darkness save when there is urge,
 
+我说生命的确是黑暗的，除非是有了激励；
+
 而我告诉你们，生命确然黑暗，除非有所追求，
 
 And all urge is blind save when there is knowledge,
+
+一切的激励都是盲目的，除非是有了知识；
 
 追求皆属盲目，除非拥有知识，
 
 And all knowledge is vain save when there is work,
 
+一切的知识都是徒然的，除非是有了工作；
+
 知识皆属徒然，除非工作不殆，
 
 And all work is empty save when there is love;
+
+一切的工作都是虚空的，除非是有了爱。
 
 工作皆属空虚， 除非心中有爱；
 
 And when you work with love you bind yourself to yourself, and to one another, and to God.
 
+当你仁爱地工作的时候，你便与自己、与人类、与上帝联系为一。
+
 你们若是怀着热爱工作，便可把握自身，连结彼此，与真神时刻不离。
 
 And what is it to work with love?
+
+怎样才是仁爱地工作呢？
 
 如何才是，怀着热爱工作？
 
 It is to weave the cloth with threads drawn from your heart, even as if your beloved were to wear that cloth.
 
+从你的心中抽丝，织成布帛，仿佛你的爱者要来穿此衣裳。
+
 是从心里抽出丝线来纺织布帛，一如布帛会是你亲人的穿着。
 
 It is to build a house with affection, even as if your beloved were to dwell in that house.
+
+热情地盖造房屋，仿佛你的爱者要住在其中。
 
 是用满怀的深情建造房屋，一如房屋会是你亲人的居所。
 
 It is to sow seeds with tenderness and reap the harvest with joy, evenn as if your beloved were to eat the fruit.
 
+温存地播种，喜乐的刈获，仿佛你的爱者要来吃这产物。
+
 是温柔地播种，欢欣地收获，一如果实会是你亲人的食物。
 
 It is to charge all things you fashion with a breath of your own spirit,
+
+这就是用你自己灵魂的气息，来充满你所制造的一切。
 
 是将你心灵的气息，注入你的每一件制作，
 
 Ann to know that all the blessed dead are standing about you and watching.
 
+要知道一切受福的古人，都在你上头看视着。
+
 心中知晓，所有那些蒙福的逝者，都站在你的周遭，观看你的工作。
 
 Often have I heard you say, as if speaking in sleep,"he who works in marble, and finds the shape of his own soul in the stone, is a nobler than he who ploughs the soil.
+
+我常听见你们仿佛在梦中说：“那在蜡石上表现出他自己的灵魂的形象的人，是比耕地的人高贵多了。
 
 我时常听见你们，梦呓一般地说道，“雕琢大理石的人，从大理石当中觅得自身灵魂的形象，这样的人，比犁地的人高贵。
 
 And he who seizes the rainbow to lay it on a cloth in the likeness of man, is more than he who makes the sandals for our feet."
 
+那捉住虹霓，传神地画在布帛上的人，是比织履的人强多了。”
+
 捕捉虹彩的人，用虹彩在布帛上绘画人物，这样的人，比为我们的双脚制作凉鞋的人杰出。”
 
 But I say, not in sleep but in the over-wakefulness of noontide, that the wind speaks not more sweetly to the giant oaks than to the least of all the blades of grass;
+
+我却要说，不在梦中，而在正午极清醒的时候，风对大橡树说话的声音，并不比对纤小的草叶所说的更甜柔；
 
 我要说的话，却不是出于梦呓，是出于正午时分的十足清醒。我要告诉你们，对最高大橡树说话的时候，风儿的声音，并不比它对最渺小草叶说话的时候甜美。
 
 And he alone is great who turns the voice of the wind into a song made sweeter by his own loving.
 
+只有那用他的爱心，把风声变成甜柔的歌曲的人，是伟大的。
+
 凭借自身的热爱，将风儿的声音变成甜美的歌曲，这样的人，方可有伟大之名。
 
 Work is love made visible.
+
+工作是眼能看见的爱。
 
 工作是爱的表征。
 
 And if you cannot work with love but only with distaste, it is better that you should leave your work and sit at the gate of the temple and take alms of those who work with joy.
 
+倘若你不是欢乐地却厌恶地工作，那还不如撇下工作，坐在大殿的门边，去乞求那些欢乐地工作的人的周济。
+
 倘若你不能怀着热爱工作，工作之时只有厌憎，倒不如撇下工作，去神庙门口闲坐，向乐于工作的人讨要施舍。
 
 For if you bake bread with indifference, you bake a bitter bread that feeds but half man's hunger.
+
+倘若你无精打采地烤着面包，你烤成的面包是苦的，只能救半个人的饥饿。
 
 要知道，倘若你漠不关心地烤制面饼，你的面饼必然又苦又涩，只能缓解一半的饥饿。
 
 And if you grudge the crushing of the grapes, your grudge distils a poison in the wine.
 
+你若是怨恨地压榨着葡萄酒，你的怨恨，在酒里滴下了毒液。
+
 倘若你怨恨榨葡萄的工作，你的怨恨必然堆积凝结，化成酒中的毒液。
 
 And if you sing though as angels, and love not the singing, you muffle man's ears to the voices of the day and the voices of the night.
+
+倘若你能像天使一般地唱，却不爱唱，你就把人们能听到白日和黑夜的声音的耳朵都塞住了。
 
 倘若你歌喉有如天使，但却对歌唱全无热爱，你只会蒙敝人们的耳朵，致使他们无法倾听，白昼与黑夜的声音。
