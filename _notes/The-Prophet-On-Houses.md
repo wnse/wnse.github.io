@@ -42,4 +42,17 @@ Would that I could gather your houses into my hand, and like a sower scatter the
 
 我愿将你们的居室拢入掌心，再像播种的人一般，将它们撒播在草地和森林。
 
+Would the valleys were your streets, and the green paths your alleys, that you might seek one another through vineyards, and come with the fragrance of the earth in your garments.
+
+愿山谷成为你们的街衢，愿葱绿的蹊径成为你们的巷陌，愿你们在果园之中彼此觅寻，衣上染满大地的芳馨。
+
+But these things are not yet to be.
+
+只可惜，这一切暂时不会来临。
+
+In their fear your forefathers gathered you too near together. And that fear shall endure a little longer. A little longer shall your city walls separarte your hearths from your fields.
+
+受了恐惧的驱使，你们的先辈将你们拢得太近。这样的恐惧，还会绵延少顷。少顷之间，你们的城垣，还会令你们的炉灶和你们的原野，隔绝离分。
+
+
 
