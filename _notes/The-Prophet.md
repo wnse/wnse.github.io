@@ -21,6 +21,7 @@ modified_date:
 7. [On Work](./The-Prophet-On-Work)
 8. [On Joy&Sorrow](./The-Prophet-On-Joy&Sorrow)
 9. [On Houses](./The-Prophet-On-Houses)
+10. [On Clothes](./The-Prophet-On-Clothes)
 
 
 
