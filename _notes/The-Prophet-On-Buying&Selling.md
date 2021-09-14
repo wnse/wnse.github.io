@@ -1,6 +1,6 @@
 ---
 title: The Prophet - On Buying&Selling
-date: 2021-09-13
+date: 2021-09-14
 tags: 
 - Kahlil Gibran
 - 哲理

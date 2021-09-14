@@ -3,7 +3,7 @@ title: The Prophet - On Joy&Sorrow
 date: 2021-09-02
 tags: 
 - Kahlil Gibran
-- 哲理
+- 情感
 categories:
 - 散文
 modified_date: 
