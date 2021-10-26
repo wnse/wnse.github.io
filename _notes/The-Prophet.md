@@ -22,6 +22,8 @@ modified_date:
 8. [On Joy&Sorrow](./The-Prophet-On-Joy&Sorrow)
 9. [On Houses](./The-Prophet-On-Houses)
 10. [On Clothes](./The-Prophet-On-Clothes)
+11. [On Buying&Selling](./The-Prophet-On-Buying&Selling)
+12. [On Crime&Punishment](./The-Prophet-On-Crime&Punishment)
 
 
 
