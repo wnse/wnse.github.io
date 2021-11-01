@@ -21,7 +21,7 @@
 title: "wnse的博客"
 email: yangkai07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  要讲究，不将就
+  讲究不将就，好奇不好胜
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wnse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: wnse/wnse.github.io
