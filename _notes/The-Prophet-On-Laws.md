@@ -1,5 +1,5 @@
 ---
-title: The Prophet - On Crime&Punishment
+title: The Prophet - On Laws
 date: 2021-11-02
 tags: 
 - Kahlil Gibran
