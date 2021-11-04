@@ -22,3 +22,5 @@ At the city gate and by your fireside I have seen you prostrate yourself and wor
 
 Even as slaves humble themselves before a tyrant and praise him though he slays them.
 
+Ay, in the grove of the temple and in the shadow of the citadel I have seen the freest among you wear their freedom as a yoke and a handcuff.
+
